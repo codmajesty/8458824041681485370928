@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "59648969915",
+    "firebase_url": "https://akutalningnduwur.firebaseio.com",
+    "project_id": "akutalningnduwur",
+    "storage_bucket": "akutalningnduwur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59648969915:android:4327e396e2ccf417bfad9e",
+        "android_client_info": {
+          "package_name": "com.ATND.BTSWallpaperUnofficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgvHPM5MzHqTR7ktyDc2LduPnqZLh_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59648969915:android:4446a8438714d663bfad9e",
+        "android_client_info": {
+          "package_name": "com.ATND.FunnyKidsVideoShow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgvHPM5MzHqTR7ktyDc2LduPnqZLh_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59648969915:android:d6c960758e1928debfad9e",
+        "android_client_info": {
+          "package_name": "com.ATND.HDLolDollWallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgvHPM5MzHqTR7ktyDc2LduPnqZLh_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59648969915:android:d25fed26aadf6c64bfad9e",
+        "android_client_info": {
+          "package_name": "com.ATND.HDRickandMortyWallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgvHPM5MzHqTR7ktyDc2LduPnqZLh_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59648969915:android:63d93987e049c5b7bfad9e",
+        "android_client_info": {
+          "package_name": "com.ATND.KawaiiBT21WallpaperLOL"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgvHPM5MzHqTR7ktyDc2LduPnqZLh_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59648969915:android:68b3dd9ca295e09abfad9e",
+        "android_client_info": {
+          "package_name": "com.ATND.KawaiiBT21WallpaperLOLNew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgvHPM5MzHqTR7ktyDc2LduPnqZLh_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59648969915:android:d4c75d8e465cfe7dbfad9e",
+        "android_client_info": {
+          "package_name": "com.atnd.aplikasipenghasiluang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgvHPM5MzHqTR7ktyDc2LduPnqZLh_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59648969915:android:e4545edaac0ef0c8bfad9e",
+        "android_client_info": {
+          "package_name": "com.atnd.twibbonframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgvHPM5MzHqTR7ktyDc2LduPnqZLh_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59648969915-e4uahbagqhqb3m36v6td92l9u1bnvajf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
